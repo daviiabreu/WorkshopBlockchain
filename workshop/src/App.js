@@ -2,7 +2,7 @@ import React from 'react';
 import Input from "./components/Input";
 import logo from './assets/logo.svg';
 import Button from "./components/Button";
-function App() {
+function App() { 
   return (
     <div className="flex flex-col min-h-screen w-full h-full items-center justify-center gap-3">
      
