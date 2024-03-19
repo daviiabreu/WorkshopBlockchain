@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/WorkshopBlockchain/static/css/main.22d5e479.css",
+    "main.js": "/WorkshopBlockchain/static/js/main.c1b9b771.js",
+    "static/js/453.2eab6565.chunk.js": "/WorkshopBlockchain/static/js/453.2eab6565.chunk.js",
+    "static/media/background-ib.svg": "/WorkshopBlockchain/static/media/background-ib.be11122288e47b108b7e.svg",
+    "static/media/logo.svg": "/WorkshopBlockchain/static/media/logo.58965ca8ba472e17524a4ed7ecd21eaf.svg",
+    "index.html": "/WorkshopBlockchain/index.html",
+    "main.22d5e479.css.map": "/WorkshopBlockchain/static/css/main.22d5e479.css.map",
+    "main.c1b9b771.js.map": "/WorkshopBlockchain/static/js/main.c1b9b771.js.map",
+    "453.2eab6565.chunk.js.map": "/WorkshopBlockchain/static/js/453.2eab6565.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22d5e479.css",
+    "static/js/main.c1b9b771.js"
+  ]
+}
